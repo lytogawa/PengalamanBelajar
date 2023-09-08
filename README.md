@@ -1,19 +1,23 @@
 # PengalamanBelajar
-Repo yang berisikan pengalaman belajar Git dari dicoding
 
-8 September 2023
-Belajar kelas Memulai Pemrograman. (Progres 21%)
+Repository Ini Berisi Pengalaman Belajar di Dicoding
 
-* Belajar tentang apa itu Java dan alasan menggunakannya.
 
-* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman C++.
+**14 Juni 2021**  
 
-9 September 2023
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 
-Belajar kelas Memulai Pemrograman dengan C++. (Progres 56%)
+  * Belajar tentang apa itu Java dan alasan menggunakannya.
 
-  * Belajar dasar-dasar C++, seperti struktur dasar, tipe data, string, operator, input output, dan array.
+  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
 
-  * Belajar control flow dalam C++, seperti perulangan dan percabangan.
+
+**15 Juni 2021**  
+
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
+
+  * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
+
+  * Belajar control flow dalam Java, seperti perulangan dan percabangan.
 
   * Belajar tipe data koleksi, seperti list, set, dan map.
